@@ -1,0 +1,2 @@
+# KIT
+korean initial translation
